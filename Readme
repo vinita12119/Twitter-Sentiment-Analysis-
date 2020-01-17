@@ -1,4 +1,4 @@
-Twitter Sentiment Detection
+## Twitter Sentiment Detection
 In this project, I was asked to build a binary classification model using fully connected feed-forward neural networks in Keras
 
 Dataset: 
